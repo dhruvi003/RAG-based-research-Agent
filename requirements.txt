@@ -1,0 +1,16 @@
+langchain
+langchain-community
+langchain-openai
+sentence-transformers
+faiss-cpu
+pypdf
+tiktoken
+langchain-core
+ragas
+langchain-groq
+langgraph
+fastapi 
+uvicorn
+sse-startlette
+python-multipart
+streamlit
